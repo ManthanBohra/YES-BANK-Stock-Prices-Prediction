@@ -1,1 +1,39 @@
+#Yes Bank Stock Price Prediction
 
+Project Overview
+
+This project focuses on predicting the stock prices of Yes Bank using historical data and machine learning techniques. The Random Forest algorithm is implemented to forecast future stock prices based on various technical indicators. The objective is to provide a data-driven approach for better investment decision-making.
+
+Technologies Used
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Scikit-learn
+
+Random Forest Regressor
+
+Dataset
+
+The dataset used in this project consists of historical stock prices of Yes Bank. The data includes:
+
+Date
+
+Open Price
+
+High Price
+
+Low Price
+
+Close Price
+
+Adjusted Close Price
+
+Volume
